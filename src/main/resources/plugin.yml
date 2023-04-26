@@ -1,0 +1,8 @@
+name: CardJitsu
+version: '${project.version}'
+main: com.okula.cardjitsu.CardJitsu
+api-version: 1.18
+authors: [ Okula ]
+commands:
+  cj:
+    description: "/cj duel <player>"
